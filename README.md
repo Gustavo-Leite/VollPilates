@@ -1,4 +1,4 @@
-Teste prático - Criar uma página a partir do layuot em PSD/jpg (anexo).
+Teste prático - Criar uma página a partir do layout em PSD/jpg (anexo).
 
 - Implementar em HTML/CSS usando bootstrat, css grid ou flexbox ou então Wordpress.
 
